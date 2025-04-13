@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @LaureenWlm
-- 👀 I’m interested in : data science applicated on sports !
-- 🌱 I’m currently learning Data science & IA 
-- 💞️ I’m looking to collaborate on : AnythinG I can learn from 
-- 😄 Pronouns: She / Her
-- ⚡ Fun fact: I'm a big fan of formula 1 and football ! 
+👋 Hi, I’m @LaureenWlm
+👀 I’m interested in data science applied to sports!
+🌱 I’m currently learning Data Science & AI
+💞️ I’m looking to collaborate on anything I can learn from
+😄 Pronouns: She / Her
+⚡ Fun fact: When I’m not coding, you’ll find me cheering for my favorite F1 team or taking photos on the sidelines of a football game.
 
 <!---
 LaureenWlm/LaureenWlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
